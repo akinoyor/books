@@ -19,3 +19,27 @@ td{
   padding:1px 1px 5px 1px;
   text-align:left;
 }
+
+.errors_messages{
+  width:450px;
+  border:2px solid red;
+  padding:7px;
+  padding-bottom:0;
+  margin-bottom:20px;
+  background-color:grya;
+}
+.errors_messages h2{
+  background-color:red;
+  font-size:12px;
+  text-align:left;
+  padding:5px 5px 5px 15px;
+  color:white;
+  margin:-7px;
+  margin-bottom:0;
+}
+ul{
+list-style-position:inside;
+font-size:12px;
+margin:33px;
+padding-left:40px;
+}
